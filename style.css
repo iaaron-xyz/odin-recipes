@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&display=swap');
+
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
+
+.cover-image {
+    margin-bottom: 50px;
+}
